@@ -2555,7 +2555,7 @@ local Setting = Library:MakeTab({
     Icon = "rbxassetid://7734053495"
 })
 Discord:AddDiscordInvite({
-    Name = "Abacaxi Hub",
+    Name = "vua Hub",
     Description = "Join for support and updates",
     Logo = "rbxassetid://85499905225554",
     Invite = "https://discord.gg/wWHxH6ARU"
